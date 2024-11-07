@@ -22,7 +22,7 @@ In this feature, each user click dynamically displays a new image from an array 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/random-image-display.git
+ 
 2. ## Open the project in Android Studio:
 Launch Android Studio and open the cloned project.
 3. ## Run the app:
