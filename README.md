@@ -22,7 +22,7 @@ In this feature, each user click dynamically displays a new image from an array 
 
 1. **Clone the repository**:
    ```bash
- 
+ https://github.com/vyas2610/WallpaperApps.git
 2. ## Open the project in Android Studio:
 Launch Android Studio and open the cloned project.
 3. ## Run the app:
