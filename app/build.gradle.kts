@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
+
 }
 
 android {
@@ -32,12 +33,15 @@ android {
 }
 
 dependencies {
-
+    val lottiefiles ="6.6.0"
+    implementation("com.airbnb.android:lottie:$lottiefiles")
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
 }
